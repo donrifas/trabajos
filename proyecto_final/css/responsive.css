@@ -5,6 +5,10 @@
 	.logo-grande {
 		display: none;
 	}
+	.header-texto,
+	.header-btn {
+		text-align: center;
+	}
 }
 
 @media only screen and (min-width: 651px) {

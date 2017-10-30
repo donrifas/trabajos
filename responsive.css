@@ -1,0 +1,17 @@
+@media only screen and (max-width: 650px) {
+	.logo-peque {
+		display: inherit;
+	}
+	.logo-grande {
+		display: none;
+	}
+}
+
+@media only screen and (min-width: 651px) {
+	.logo-peque {
+		display: none;
+	}
+	.logo-grande {
+		display: inherit;
+	}
+}
